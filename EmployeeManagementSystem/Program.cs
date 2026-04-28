@@ -38,18 +38,18 @@ namespace EmployeeManagementSystem
 
 
 
-            //Console.WriteLine(new string('-', 90));
-            //service.InsertEmployee(new Models.Employee { Name = "Mohammed ali", Salary = 50000, DepartmentId = 1 });
+            Console.WriteLine(new string('-', 90));
+            service.InsertEmployee(new Models.Employee { Name = "Mohammed ali", Salary = 50000, DepartmentId = 1 });
 
 
 
-            //Console.WriteLine(new string('-', 90));
-            //service.UpdateEmployee(1, 60000);
+            Console.WriteLine(new string('-', 90));
+            service.UpdateEmployee(1, 60000);
 
 
 
-            //Console.WriteLine(new string('-', 90));
-            //service.DeleteEmployee(7);
+            Console.WriteLine(new string('-', 90));
+            service.DeleteEmployee(5);
             Console.WriteLine(new string('-', 90));
             Console.WriteLine("Employee With Department");
             Console.WriteLine(new string('-', 90));

@@ -1,13 +1,7 @@
 ﻿using Dapper;
 using EmployeeManagementSystem.DatabaseConnection;
 using EmployeeManagementSystem.Models;
-using Microsoft.VisualBasic;
-using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Text;
-using System.Xml.Linq;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace EmployeeManagementSystem
 {
